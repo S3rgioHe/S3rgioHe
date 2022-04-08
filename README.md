@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S3rgioHe
 - 👀 I’m interested in web development...
-- 🌱 I’m currently learning web development with php and data science
+- 🌱 I’m currently learning React js
 - 📫 How to reach me https://cvsergio-henrique.firebaseapp.com/...
 
 <!---
