@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sérgio</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+<h3 align="center">I started with web development with the need to create a solution to an urban problem, which was a of the challenges of the First Lego League, international program of education that I participated in my adolescence. Since so I've been developing my skills like programmer and I'm looking for a company that will bring me new opportunities, and challenges. I'm willing to learn new technologies in order to create innovative solutions.</h3>
 
 - 🌱 I’m currently learning **Laravel and Docker**
 
