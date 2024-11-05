@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Php, codeigniter, postgreSql**
 
-- 📫 How to reach me **sergiohenriquefn@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sergio-henrique-7b436a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sergio-henrique-7b436a209" height="30" width="40" /></a>
